@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Ricky Kitano 👊
 
 * Estudando, desenvolvendo e se aperfeiçoando a cada dia!
-* Cursando Análise e desenvolvimento de Sistemas.
+* Formado em Análise e desenvolvimento de Sistemas.
 
 ### Cursos concluídos:
 <table align= "left">
